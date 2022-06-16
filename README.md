@@ -1,4 +1,4 @@
-# Find-duplicate-dependencies-in-your-project
+# Find duplicate dependencies in your project
 
 EN: 
 
