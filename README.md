@@ -20,3 +20,4 @@ Ejecuta:
 
 Y obtendrás una lista ordenada con las dependencias más repetidas en tus node_modules y su tamaño.
 
+![npx qnm doctor --sort duplicates](https://github.com/pablorgarcia/Find-duplicate-dependencies-in-your-project/blob/master/1655316837926.jfif "npx qnm doctor --sort duplicates")
